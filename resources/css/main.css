@@ -1,0 +1,14 @@
+html {
+  font-family: 'Corben', cursive;
+  height: 100%;
+}
+
+canvas {
+  border: 1px solid gainsboro;
+}
+
+.container {
+  float: left;
+  text-align: center;
+  width: 50%;
+}
